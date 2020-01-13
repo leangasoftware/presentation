@@ -1,8 +1,8 @@
 ![](https://leangasoftware.es/img/logo.png)
 
 > __Nota__: LEER TODO el documento. 
-Las pruebas técnicas se encuentran en el siguiente [link](https://github.com/leangasoftware).
-Si tienes dudas ve al final del documento.
+__Las pruebas técnicas se encuentran en el siguiente__ [link](https://github.com/leangasoftware).
+__Si tienes dudas ve al final del documento.__
 
 ### ¿Quienes somos?
 
@@ -12,12 +12,14 @@ Leanga Software es una compañía global de tecnología y consultoría, socios p
 Actualmente nos encontramos en búsqueda de profesionales que se quieran unir a nuestro grupo de trabajo de forma remota, manejamos una metodología de trabajo OKR, flexibilidad en horarios entro otras cosas.
 Nuestro equipo está diversificado por América y Europa, y tenemos múltiples proyectos los cuales se encuentra en expansión.
 
+---
+
 #### Front-End
 > Si tienes conocimiento en alguno de estas librarías o framework, te estamos __buscando__!
     - Angular
     - AngularJS
-    - React 
-    - ReactJS
+    - React-Native (muy pronto la prueba técnica)
+    - ReactJS (muy pronto la prueba técnica)
     
 #### Back-End
 > Si tienes conocimiento en alguno de estos lenguajes o framework, te estamos __buscando__!
@@ -46,7 +48,10 @@ __Es obligatoria realizar la prueba:__
 __¿Tiempo limite para realizar la prueba?:__
 > No tiene
 
-`¿Más preguntas? Deja un pull request con tus preguntas y las respondere`
+__¿Contratos, garantías?:__
+> No manejamos contratos, es modo "freelance". Garantías queda en ti evaluar nuestra forma de trabajo.
+
+`*** ¿Más preguntas? Deja un pull request con tus preguntas y las respondere`
  
 ---
 ¡Gracias por participar!
