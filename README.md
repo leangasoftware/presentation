@@ -11,7 +11,7 @@ Leanga Software es una compañía global de tecnología y consultoría, socios p
 ### Trabaja con nosotros
 Actualmente nos encontramos en búsqueda de profesionales que se quieran unir a nuestro grupo de trabajo de forma remota, manejamos una metodología de trabajo OKR, flexibilidad en horarios entro otras cosas.
 Nuestro equipo está diversificado por América y Europa, y tenemos múltiples proyectos los cuales se encuentra en expansión.
----
+
 #### Front-End
 > Si tienes conocimiento en alguno de estas librarías o framework, te estamos __buscando__!
     - Angular
