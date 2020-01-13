@@ -51,8 +51,6 @@ __¿Contratos, garantías?:__
 > No manejamos contratos, es modo "freelance". Garantías queda en ti evaluar nuestra forma de trabajo.
  
 ---
-¡Gracias por participar!
-
 
 ### Preguntas
 
@@ -61,3 +59,5 @@ __¿Contratos, garantías?:__
 >Soy desarrollador web con PHP en Laravel y javascript me interesa su propuesta. 
 __¿Como y cuando se empezaria?:__
 > Soy de Colombia, esperaria su prueba para empezar y hablar de lo que vendria luego.
+__Respuesta:__
+> Luego de realizar la prueba y evaluación de la misma, al día siguiente te enviaremos un link para programar una video llamada donde establecemos los las ramas de los repositorios y lista de issues. PD. Excelente por tener la iniciativa del PR
