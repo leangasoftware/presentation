@@ -1,9 +1,8 @@
 ![](https://leangasoftware.es/img/logo.png)
 
-> __Nota__: LEER TODO el documento. 
-__Las pruebas técnicas se encuentran en el siguiente__ [link](https://github.com/leangasoftware).
-__Si tienes dudas ve al final del documento.__
-
+- __Las pruebas técnicas se encuentran en el siguiente__ [link](https://github.com/leangasoftware).
+- __Si tienes dudas ve al final del documento.__
+- __¿Más preguntas? Deja un pull request con tus preguntas y las respondere__
 ### ¿Quienes somos?
 
 Leanga Software es una compañía global de tecnología y consultoría, socios para los desarrollos de transformación tecnológica que es la clave de los negocios de nuestros clientes en todo el mundo. Somos un proveedor líder expandiéndonos y dando soluciones propias en segmentos específicos de los mercados de Hostelería y turismo, Gamificación y Plataformas de comercio electrónico, para las Tecnologías de la Información en España y Latinoamérica a través de partners. nuestro modelo de negocio está basado en una oferta integral de productos propios, con un enfoque end-to-end, de alto valor y con un alto componente de innovación.
@@ -50,8 +49,6 @@ __¿Tiempo limite para realizar la prueba?:__
 
 __¿Contratos, garantías?:__
 > No manejamos contratos, es modo "freelance". Garantías queda en ti evaluar nuestra forma de trabajo.
-
-`*** ¿Más preguntas? Deja un pull request con tus preguntas y las respondere`
  
 ---
 ¡Gracias por participar!
