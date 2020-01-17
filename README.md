@@ -66,3 +66,5 @@ __¿Como y cuando se empezaria?:__
 > Soy de Colombia, esperaria su prueba para empezar y hablar de lo que vendria luego.
 __Respuesta:__
 > Luego de realizar la prueba y evaluación de la misma, al día siguiente te enviaremos un link para programar una video llamada donde establecemos los las ramas de los repositorios y lista de issues. PD. Excelente por tener la iniciativa del PR
+
+>me llamo miguel, estoy muy interesado, puesto que, son tecnologias con las que ya tengo un tiempo trabajando laboralmente y estoy familiarizado, tanto el front como back-end. he realizacon la prueba de angular, la he pasado al correo como se ha solicitado y tambien esta en un hosting para su prueba. mi pregunta es, en cuanto tiempo recibiria una respuesta de su parte? saludos
