@@ -1,11 +1,16 @@
 ![](https://leangasoftware.es/img/logo.png)
 
-- __Las pruebas técnicas se encuentran en el siguiente__ [link](https://github.com/leangasoftware).
-- __Si tienes dudas ve al final del documento.__
+`Sesión de preguntas y respuestas al final del documento`
 
 ### ¿Quienes somos?
 
 Leanga Software es una compañía global de tecnología y consultoría, socios para los desarrollos de transformación tecnológica que es la clave de los negocios de nuestros clientes en todo el mundo. Somos un proveedor líder expandiéndonos y dando soluciones propias en segmentos específicos de los mercados de Hostelería y turismo, Gamificación y Plataformas de comercio electrónico, para las Tecnologías de la Información en España y Latinoamérica a través de partners. nuestro modelo de negocio está basado en una oferta integral de productos propios, con un enfoque end-to-end, de alto valor y con un alto componente de innovación.
+
+### ¿Que buscamos?
+Nuestra filosofía es tener un equipo de verdaderos apasionados por el `<code>` que sean proactivos, curiosos, perseverantes con deseos de expandir sus conocimientos y de crear grandes historias. 
+[Ver historia de Leifer](https://www.workana.com/blog/freelanceando/leifer-mendez-la-aventura-del-freelancing/)
+
+__¡Si consideras que tienes estas actitudes te estamos buscando!__
 
 ### Trabaja con nosotros
 Actualmente nos encontramos en búsqueda de profesionales que se quieran unir a nuestro grupo de trabajo de forma remota, manejamos una metodología de trabajo OKR, flexibilidad en horarios entro otras cosas.
@@ -14,18 +19,19 @@ Nuestro equipo está diversificado por América y Europa, y tenemos múltiples p
 ---
 
 #### Front-End
-> Si tienes conocimiento en alguno de estas librarías o framework, te estamos __buscando__!
-    - Angular
-    - AngularJS
-    - React-Native (muy pronto la prueba técnica)
-    - ReactJS (muy pronto la prueba técnica)
+Si tienes conocimiento en alguno de estas librarías o framework, te estamos __buscando__
+- Angular [Ver prueba](https://github.com/leangasoftware/angular-interview)
+- AngularJS (muy pronto la prueba técnica)
+- React-Native (muy pronto la prueba técnica)
+- ReactJS (muy pronto la prueba técnica)
     
 #### Back-End
-> Si tienes conocimiento en alguno de estos lenguajes o framework, te estamos __buscando__!
-    - Node
-    - Laravel
-    - MySQL 
-    - MongoDB
+Si tienes conocimiento en alguno de estos lenguajes o framework, te estamos __buscando__
+- Node [Ver prueba](https://github.com/leangasoftware/node-interview)
+- Laravel [Ver prueba](https://github.com/leangasoftware/laravel-interview)
+- MySQL 
+- MongoDB
+- PHP (Sin framworks) [Ver prueba](https://github.com/leangasoftware/php-interview)
     
 ---
 ### Preguntas
@@ -49,6 +55,9 @@ __¿Tiempo limite para realizar la prueba?:__
 
 __¿Contratos, garantías?:__
 > No manejamos contratos, es modo "freelance". Garantías queda en ti evaluar nuestra forma de trabajo.
+
+__¿Como se mantiene la comunicación?:__
+> Luego de una pequeña presentación te unimos a un grupo de Slack donde llevamos la comunicación.
 
 __¿La forma de calificar es realizando las pruebas. Posteriormente que seguiría?:__
 > Se realizará una video llamada "Pequeña presentacion" y se comienza a asignar tareas y acordar pagos
