@@ -68,4 +68,5 @@ __Respuesta:__
 > Luego de realizar la prueba y evaluación de la misma, al día siguiente te enviaremos un link para programar una video llamada donde establecemos los las ramas de los repositorios y lista de issues. PD. Excelente por tener la iniciativa del PR
 
 >(2) Me llamo miguel, estoy muy interesado, puesto que, son tecnologias con las que ya tengo un tiempo trabajando laboralmente y estoy familiarizado, tanto el front como back-end. he realizacon la prueba de angular, la he pasado al correo como se ha solicitado y tambien esta en un hosting para su prueba. mi pregunta es, en cuanto tiempo recibiria una respuesta de su parte? saludos
-__Respuesta:__ Hola Miguel gracias por ser parte del reto, me podrias reenviar el email estoy buscando con tu nombre pero no lo veo. Gracias!
+__Respuesta:__ Hola Miguel gracias por ser parte del reto, me podrias reenviar el email estoy buscando con tu nombre pero no lo veo. Gracias! __Replica:__  si seguro ya lo acabo de enviar a esta direccion desarrollo@leangasoftware.es, con el asunto  ANGULAR-INTERVIEW. puede chequear directamente la prueba en esta url https://angularmiguel.000webhostapp.com/#/posts. puede contactarse conmigo por el numero +584128992242, o correo m.alejandro_80@hotmail.com
+
