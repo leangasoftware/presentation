@@ -21,7 +21,7 @@ Nuestro equipo está diversificado por América y Europa, y tenemos múltiples p
 #### Front-End
 Si tienes conocimiento en alguno de estas librarías o framework, te estamos __buscando__
 - Angular [Ver prueba](https://github.com/leangasoftware/angular-interview)
-- AngularJS (muy pronto la prueba técnica)
+- AngularJS [Ver prueba](https://github.com/leangasoftware/angularjs-interview)
 - React-Native (muy pronto la prueba técnica)
 - ReactJS (muy pronto la prueba técnica)
     
