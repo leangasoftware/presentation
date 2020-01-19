@@ -32,7 +32,8 @@ Si tienes conocimiento en alguno de estos lenguajes o framework, te estamos __bu
 - MySQL 
 - MongoDB
 - PHP (Sin framworks) [Ver prueba](https://github.com/leangasoftware/php-interview)
-    
+#### Otros
+- Socket.io [Ver prueba](https://github.com/leangasoftware/socket-io-node)
 ---
 ### Preguntas
 __¿Es presencial o remoto?:__
