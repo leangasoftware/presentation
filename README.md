@@ -7,8 +7,7 @@
 Leanga Software es una compañía global de tecnología y consultoría, socios para los desarrollos de transformación tecnológica que es la clave de los negocios de nuestros clientes en todo el mundo. Somos un proveedor líder expandiéndonos y dando soluciones propias en segmentos específicos de los mercados de Hostelería y turismo, Gamificación y Plataformas de comercio electrónico, para las Tecnologías de la Información en España y Latinoamérica a través de partners. nuestro modelo de negocio está basado en una oferta integral de productos propios, con un enfoque end-to-end, de alto valor y con un alto componente de innovación.
 
 ### ¿Que buscamos?
-Nuestra filosofía es tener un equipo de verdaderos apasionados por el `<code>` que sean proactivos, curiosos, perseverantes con deseos de expandir sus conocimientos y de crear grandes historias. 
-[Ver historia de Leifer](https://www.workana.com/blog/freelanceando/leifer-mendez-la-aventura-del-freelancing/)
+Nuestra filosofía es tener un equipo de verdaderos apasionados por el `<code>` que sean proactivos, curiosos, perseverantes con deseos de expandir sus conocimientos y de crear grandes historias.
 
 __¡Si consideras que tienes estas actitudes te estamos buscando!__
 
