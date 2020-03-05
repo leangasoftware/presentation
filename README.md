@@ -1,6 +1,10 @@
 ![](https://leangasoftware.es/img/logo.png)
 
-`Sesión de preguntas y respuestas al final del documento`
+> __Preguntas y Respuestas__
+Final del documento!
+
+> __Pruebas técnicas__
+[Ir a las prubas](#front-end)
 
 ### ¿Quienes somos?
 
