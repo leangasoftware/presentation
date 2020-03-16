@@ -26,7 +26,7 @@ Si tienes conocimiento en alguno de estas librarías o framework, te estamos __b
 - Angular [Ver prueba](https://github.com/leangasoftware/angular-interview)
 - AngularJS [Ver prueba](https://github.com/leangasoftware/angularjs-interview)
 - ReactJS [Ver prueba](https://github.com/leangasoftware/reactjs-interview)
-- React-Native (muy pronto la prueba técnica)
+- React-Native [Ver prueba](https://github.com/leangasoftware/react-native-interview)
     
 #### Back-End
 Si tienes conocimiento en alguno de estos lenguajes o framework, te estamos __buscando__
