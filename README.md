@@ -16,7 +16,7 @@ Nuestra filosofía es tener un equipo de verdaderos apasionados por el `<code>` 
 __¡Si consideras que tienes estas actitudes te estamos buscando!__
 
 ### Trabaja con nosotros
-Actualmente nos encontramos en búsqueda de profesionales que se quieran unir a nuestro grupo de trabajo de forma remota, manejamos una metodología de trabajo OKR, flexibilidad en horarios entro otras cosas.
+Actualmente nos encontramos en búsqueda de profesionales que se quieran unir a nuestro grupo de trabajo de forma remota, manejamos una metodología de trabajo OKR, flexibilidad en horarios.
 Nuestro equipo está diversificado por América y Europa, y tenemos múltiples proyectos los cuales se encuentra en expansión.
 
 ---
