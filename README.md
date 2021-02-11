@@ -84,6 +84,7 @@ __Respuesta:__
 __Respuesta:__ Hola Miguel gracias por ser parte del reto, me podrias reenviar el email estoy buscando con tu nombre pero no lo veo. Gracias! __Replica:__  si seguro ya lo acabo de enviar a esta direccion desarrollo@leangasoftware.es, con el asunto  ANGULAR-INTERVIEW. puede chequear directamente la prueba en esta url https://angularmiguel.000webhostapp.com/#/posts. puede contactarse conmigo por el numero +584128992242, o correo m.alejandro_80@hotmail.com
 
 >(3) Hola, soy Jean Carlos Ortiz, quisiera saber cuanto tardan en dar una respuesta. Hace unos días envié la prueba de NodeJs pero no sé si fue recibido. Quedo atento, muchas gracias.
+__Respuesta:__ Hola Carlos por lo general en un plazo de 5 días se notificara via email (Con respuesta positiva). PD: Tu email fue recibido! 
 
 >(3) Pregunta para reto de Laravel: ¿para todos los retos de Backend se necesita hacer una _API_?, por ejemplo: en el reto de Laravel dan algunos mockups y dan a entender que el reto se debe hacer con el motor de plantillas _BLADE_, o se tiene que realizar una _API_?. Saludos.
 __Respuesta__ En blade esta bien!
